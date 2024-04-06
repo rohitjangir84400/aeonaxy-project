@@ -53,6 +53,7 @@ export default function Inventors() {
     const handleScroll = () => {
         const position = sliderRef.current.scrollLeft;
         setScrollPosition(position);
+        console.log(scrollPosition)
     };
     return (
         <div className={`transition-opacity duration-[3000ms] ${isVisible ? 'opacity-100' : 'opacity-0'}`} ref={componentRef}>
