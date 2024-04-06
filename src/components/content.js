@@ -47,28 +47,28 @@ export default function Content() {
                         <div><img className="h-[60px] w-[60px]" alt="freepick" src='https://img.freepik.com/free-vector/organic-flat-blog-post-illustration-with-people_23-2148955260.jpg?w=826' /></div>
                         <div>
                             <p className="text-xl font-bold">Fibery <br /> blog</p>
-                            <a href="#" className="font-bold text-[#54cbde]">fibery.io/blog</a>
+                            <div className="font-bold text-[#54cbde] cursor-pointer">fibery.io/blog</div>
                         </div>
                     </div>
                     <div className="flex gap-3">
                         <div><img className="h-[60px] w-[60px]" alt="freepick" src='https://img.freepik.com/free-vector/happy-woman-chatting-with-friends-online_74855-14073.jpg?w=740' /></div>
                         <div>
                             <p className="text-xl font-bold">Fibery <br /> community</p>
-                            <a href="#" className="font-bold text-[#54cbde]">community.fibery.io</a>
+                            <div className="font-bold text-[#54cbde] cursor-pointer">community.fibery.io</div>
                         </div>
                     </div>
                     <div className="flex gap-3">
                         <div><img className="h-[60px] w-[60px]" alt="freepick" src='https://img.freepik.com/free-vector/twitter-new-2023-x-logo-white-background-vector_1017-45422.jpg?w=740' /></div>
                         <div>
                             <p className="text-xl font-bold">Fibery <br /> on X-twitter</p>
-                            <a href="#" className="font-bold text-[#54cbde]">@fibery_io</a>
+                            <div className="font-bold text-[#54cbde] cursor-pointer">@fibery_io</div>
                         </div>
                     </div>
                     <div className="flex gap-3">
                         <div><img className="h-[60px] w-[60px]" alt="freepick" src='https://img.freepik.com/free-psd/social-media-logo-design_23-2151296989.jpg?w=740' /></div>
                         <div>
                             <p className="text-xl font-bold">Fibery <br /> on youtube</p>
-                            <a href="#" className="font-bold text-[#54cbde]">Ring the bell!</a>
+                            <div className="font-bold text-[#54cbde] cursor-pointer ">Ring the bell!</div>
                         </div>
                     </div>
                 </div>
